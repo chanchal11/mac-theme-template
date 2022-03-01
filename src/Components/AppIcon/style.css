@@ -1,0 +1,9 @@
+.app-icon img {
+  height: 100px;
+  width: 100px;
+}
+.app-icon img:hover {
+  transform: scale(1.6);
+  transition-duration: 300ms;
+  position: relative;
+}

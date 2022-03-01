@@ -1,0 +1,24 @@
+.dock-container {
+  position: fixed;
+  bottom: 2vh;
+  width: 100%;
+}
+.dock {
+  height: 100px;
+  max-width: max-content;
+  /* background-color: rgba(255, 181, 85, 0.959); */
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px 2px 2px rgb(88, 78, 78);
+  display: flex;
+  background-color: rgba(53, 52, 52, 0.959);
+}
+
+/* @media only screen and  ( max-width: 1080px ){
+  .dock-container {
+    position: fixed;
+    bottom: 2vh;
+    width: 80%;
+  }
+} */

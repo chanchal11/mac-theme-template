@@ -1,0 +1,26 @@
+.header {
+  background-color: rgb(46, 45, 45);
+  /* rgba(216, 194, 194, 1); */
+  height: 32px;
+  /* border: 1px solid black; */
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 2px gray;
+  color: white;
+}
+
+.title-name,
+.title-address {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+  padding-top: 5px;
+  /* font-weight: bold; */
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.title-address {
+  margin-left: 20px;
+}

@@ -1,0 +1,8 @@
+.titleBar {
+  border: 1px solid black;
+  margin: 5px 5px;
+  border-radius: 11px;
+  width: 15px;
+  height: 15px;
+  /* box-shadow: 2px 2px 1px; */
+}
